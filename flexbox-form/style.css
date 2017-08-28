@@ -21,6 +21,7 @@ a {
 
 input[type='date'] {
   font-family: 'Roboto Mono';
+  flex-basis: 360px;
 }
 
 .cover {
