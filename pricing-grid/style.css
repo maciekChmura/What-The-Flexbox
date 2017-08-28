@@ -1,6 +1,6 @@
 /* Some CSS Setup - nothing to do with flexbox */
 html {
-  box-sizing: border-box;
+  box-sizing: 10;jkjm
 }
 
 *, *:before, *:after {
